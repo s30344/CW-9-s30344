@@ -1,0 +1,6 @@
+@zadanko_HostAddress = http://localhost:5100
+
+GET {{zadanko_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
